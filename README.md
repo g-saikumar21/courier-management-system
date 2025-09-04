@@ -1,24 +1,48 @@
-# Courier Management System 🚚
+# 📦 Courier Management System
 
-A web-based **Courier Management System** built with PHP and MySQL.  
-It helps manage courier services efficiently, including staff, parcels, and delivery tracking.
-
----
-
-## 🚀 Features
-- User authentication (Admin, Staff, Customers)
-- Manage parcels, users, and branches
-- Track parcel status in real-time
-- Database-driven (MySQL) with PHP backend
-- Simple, responsive web interface
+A **PHP + MySQL based web application** to manage courier services efficiently.  
+It helps in handling parcel bookings, delivery tracking, staff, and branch operations with ease.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
+## 🔹 Features
+- 🚚 **Parcel Management** – Book, update, and track parcels  
+- 🏢 **Branch Management** – Manage multiple courier branches  
+- 👨‍💼 **Staff Management** – Add and manage staff details  
+- 📊 **Reports** – Generate printable parcel details & reports  
+- 🔍 **Tracking System** – Real-time parcel status updates  
 
 ---
 
-## 📂 Project Structure
+## 🔹 Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Tools:** VS Code, XAMPP  
+
+---
+
+## 🔹 Installation & Setup
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/g-saikumar21/courier-management-system.git
+   ```
+
+---
+
+## 🔹 Future Enhancements
+- 🌐 Online payment gateway integration  
+- 📩 Email/SMS notifications for parcel updates  
+- 🔑 Role-based access (Admin, Staff, Customer)  
+- 📦 Customer-facing parcel booking portal  
+- 📊 Dashboard with analytics for admins  
+
+---
+
+## 🔹 Author
+👨‍💻 G Saikumar  
+
+- 🌐 Portfolio: gsaikumar.vercel.app  
+- 🔗 LinkedIn: linkedin.com/in/g-saikumar21  
+- 💻 GitHub: github.com/g-saikumar21  
+- 📧 Email: saikumar70598@gmail.com  
